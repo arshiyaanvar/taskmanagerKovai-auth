@@ -1,0 +1,50 @@
+[
+    {
+        "user": "arshiyaanvar09@gmail.com",
+        "title": "Dance Class",
+        "status": "Planned",
+        "priority": "Low"
+    },
+    {
+        "user": "arshiyaanvar09@gmail.com",
+        "title": "Dance Party",
+        "status": "Complete",
+        "priority": "High"
+    },
+    {
+        "user": "arshiyaanvar09@gmail.com",
+        "title": "Teach maths",
+        "status": "Planned",
+        "priority": "Medium"
+    },
+    {
+        "user": "arshiyaanvar09@gmail.com",
+        "title": "Drink water ",
+        "status": "In Progress",
+        "priority": "Low"
+    },
+    {
+        "user": "arshiyaanvar09@gmail.com",
+        "title": "Call Dad",
+        "status": "In Progress",
+        "priority": "High"
+    },
+    {
+        "user": "arshiyabatcha001@gmail.com",
+        "title": "Eat nuts",
+        "status": "Planned",
+        "priority": "High"
+    },
+    {
+        "user": "arshiyabatcha001@gmail.com",
+        "title": "Make Coffee",
+        "status": "Planned",
+        "priority": "Medium"
+    },
+    {
+        "user": "arshiyabatcha001@gmail.com",
+        "title": "Exercise",
+        "status": "Complete",
+        "priority": "Low"
+    }
+]
