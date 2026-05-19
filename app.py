@@ -9,7 +9,7 @@ from authlib.integrations.requests_client import OAuth2Session
 # -------------------------------
 CLIENT_ID = "14988331281-eh2p1s4f5n9fn852b8gqhjcdvcac6lgn.apps.googleusercontent.com"
 CLIENT_SECRET = "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"
-REDIRECT_URI = "https://k4jrqx57ydtz5xjwcvzfhb.streamlit.app/"
+REDIRECT_URI = "http://localhost:8501"
 
 AUTHORIZATION_ENDPOINT = "https://accounts.google.com/o/oauth2/auth"
 TOKEN_ENDPOINT = "https://oauth2.googleapis.com/token"
