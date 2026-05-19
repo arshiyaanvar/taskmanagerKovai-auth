@@ -2,8 +2,8 @@ streamlit
 authlib
 requests
 
-CLIENT_ID = "14988331281-eh2p1s4f5n9fn852b8gqhjcdvcac6lgn.apps.googleusercontent.com"
-CLIENT_SECRET = "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"
+CLIENT_ID = ""
+CLIENT_SECRET =""
 REDIRECT_URI = "http://localhost:8501"
 
 AUTHORIZATION_ENDPOINT = "https://accounts.google.com/o/oauth2/auth"
